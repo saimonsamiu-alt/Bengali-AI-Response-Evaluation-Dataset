@@ -300,8 +300,8 @@ note(Chatgpt): Just a formal answer, no human connectivity based words.
 
 তুমি চাইলে আমাকে বলতে পারো, ঠিক কী কারণে তোমার খারাপ লাগছে? পরীক্ষার জন্য, কোনো সম্পর্কের কারণে, নাকি অন্য কিছু? আমি শুনছি।]
 
-| Model | Accuracy | Relevance | Fluency | Cultural Fit |
-|-------|----------|-----------|---------|----------------|
+| Model | Accuracy | Relevance | Fluency | Cultural Fit | Personal Connection| Medical Issue|
+|-------|----------|-----------|---------|----------------|-------------------|-------------|
 | Claude | [score] | [score] | [score] | [score] |
 | Gemini | [score] | [score] | [score] | [score] |
 | ChatGPT | [score] | [score] | [score] | [score] |
