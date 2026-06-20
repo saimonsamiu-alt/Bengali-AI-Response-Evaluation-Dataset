@@ -11,7 +11,7 @@ Here I will evaluate multiple artificial intelligence responses and choose the b
 | # | Prompt | Winner | মূল কারণ |
 |---|--------|--------|-----------|
 | 1 | আমি পরীক্ষায় খারাপ করেছি কি করা উচিত? | Gemini | Point to point with accurate solution |
-| 2 | ভিটামিন সি কোন কোন খাবারে বেশি পরিমাণে পাওয়া যায়? | Gemini | [Gives natuaral vibe] |
+| 2 | ভিটামিন সি কোন কোন খাবারে বেশি পরিমাণে পাওয়া যায়? | Gemini | Gives natuaral vibe |
 | 3 | আমার ঘাড়ে ব্যথা আমার  করণীয় কি?  | [মডেল] | [এক লাইনে কারণ] |
 | 4 | আমাকে d/dx(e'x)অংকটি বুঝিয়ে দাও | [মডেল] | [এক লাইনে কারণ] |
 | 5 | আমার খারাপ লাগছে আমার কি করা উচিত? | [মডেল] | [এক লাইনে কারণ] |
