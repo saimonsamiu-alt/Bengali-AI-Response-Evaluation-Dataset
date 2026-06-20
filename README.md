@@ -40,7 +40,13 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 তোমার স্পেসিফিক সিচুয়েশনটা যদি বলো — কোন কোর্স, কী কারণে খারাপ হয়েছে মনে হচ্ছে — তাহলে আরও স্পেসিফিক সাজেশন দিতে পারি।]
 
+
+
+
 **Gemini Response:**
+
+
+
 [পরীক্ষায় ফল আশানুরূপ না হলে খারাপ লাগাটা খুবই স্বাভাবিক। ভেঙে পড়বেন না, কারণ একটা পরীক্ষা কখনোই আপনার মেধা বা ভবিষ্যতের শেষ কথা নয়। এই পরিস্থিতি কাটিয়ে উঠে নতুন করে শুরু করার জন্য আপনি নিচের পদক্ষেপগুলো নিতে পারেন:
 
 ### ১. মানসিক চাপ দূর করুন ও মেনে নিন
@@ -78,7 +84,14 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 > **মনে রাখবেন:** "ব্যর্থতা হলো ঘুরে দাঁড়ানোর প্রথম ধাপ।" এই অভিজ্ঞতাকে কাজে লাগিয়ে পরবর্তী পরীক্ষার জন্য এখন থেকেই একটু একটু করে প্রস্তুতি শুরু করুন। আপনি অবশ্যই ভালো করবেন!।]
 
+
+
 **ChatGPT Response:**
+
+
+
+
+
 [যদি তুমি পরীক্ষায় খারাপ করে থাকো, তাহলে প্রথম কাজ হলো ফলাফলকে তথ্য হিসেবে দেখা, নিজের মূল্য হিসেবে নয়।
 
 তুমি আগের কথায় বলেছিলে যে তুমি ইতোমধ্যে Islamic University of Technology-এ ভর্তি হয়েছ এবং ক্লাস শুরু হবে অক্টোবরে। অর্থাৎ একটি গুরুত্বপূর্ণ লক্ষ্য তুমি অর্জন করেছ। তাই একটি খারাপ পরীক্ষা তোমার পুরো সক্ষমতা নির্ধারণ করে না।
@@ -112,12 +125,12 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 | Model | Accuracy | Relevance | Fluency | Cultural Fit |
 |-------|----------|-----------|---------|----------------|
-| Claude | [score] | [score] | [score] | [score] |
-| Gemini | [score] | [score] | [score] | [score] |
-| ChatGPT | [score] | [score] | [score] | [score] |
+| Claude | [3] |      [5] |      [4] |       [5] |
+| Gemini | [5] |      [5] |      [4] |       [5] |
+| ChatGPT | [4] |     [5] |      [3] |       [4] |
 
-**Winner:** [মডেল নাম]
-**কেন:** [তোমার justification]
+**Winner:** [Gemini]
+**কেন:** [Gemini Creates points that help to understand the overall think clearly with a flow and every point he suggested new solution which didn't provide by others.PLus point it gives a wonderful motivation that also help to choose this response as best among claude, chatgpt]
 
 ---
 ## Detailed Evaluations
