@@ -123,18 +123,14 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 সেটা বললে তোমার পরিস্থিতি অনুযায়ী আরও নির্দিষ্ট পরামর্শ দিতে পারব।]
 
-| Model | Accuracy | Relevance | Fluency | Cultural Fit | 
-|-------|----------|-----------|---------|----------------|
-| Claude |  [5] |      [5] |      [5] |       [5] | 
-| Gemini |  [5] |      [5] |      [5] |       [4] | 
-| ChatGPT|  [5] |      [5] |      [4] |       [4] | 
+| Model | Accuracy | Relevance | Fluency | Cultural Fit | Personal Connection||
+|-------|----------|-----------|---------|----------------|-------------------|
+| Claude |  [5] |      [5] |      [5] |       [5] |         [3]|  
+| Gemini |  [5] |      [5] |      [5] |       [4] |         [4]| 
+| ChatGPT|  [5] |      [5] |      [4] |       [4] |         [2]|
 note(Claude): It may give more detailed point to point, i donot feel attachment.
 note(Gemini): Overall good but didnot recognised previous memory but gives a vide like a elder brother, and it may use তুমি (cause it represents ঘনিষ্ঠতা, স্নেহ বা সমতা) instead of আপনি.
 note(ChatGPT): Its response looks like hazzy , it should need more detailed answer
-
-
-Personal Connection: Claude:3 ,Gemini:5 ,ChatGpt: 2,,,, 
-Finally: 
 
 
 **Winner:** [Gemini]
