@@ -134,7 +134,7 @@ note(ChatGPT): Its response looks like hazzy , it should need more detailed answ
 
 
 Personal Connection: Claude:3 ,Gemini:5 ,ChatGpt: 2,,,, 
-FInally: 
+Finally: 
 
 
 **Winner:** [Gemini]
@@ -236,11 +236,11 @@ FInally:
 
 একজন ১৮–২০ বছর বয়সী তরুণের দৈনিক প্রয়োজন সাধারণত প্রায় ৭৫–৯০ মি.গ্রা. ভিটামিন C। একটি মাঝারি পেয়ারা বা কয়েকটি আমলকি খেলেই অনেক ক্ষেত্রে দিনের চাহিদা পূরণ হয়ে যায়।]
 
-| Model | Accuracy | Relevance | Fluency | Cultural Fit |
-|-------|----------|-----------|---------|----------------|
-| Claude | [5] |      [5] |       [4] |       [4] | 
-| Gemini | [5] |      [5] |       [5] |       [5] |
-| ChatGPT| [5] |      [5] |       [4] |       [4] |
+| Model | Accuracy | Relevance | Fluency | Cultural Fit | Personal Connection|
+|-------|----------|-----------|---------|----------------|------------------|
+| Claude | [5] |      [5] |       [4] |       [4] |        [3] |
+| Gemini | [5] |      [5] |       [5] |       [5] |        [5] |
+| ChatGPT| [5] |      [5] |       [4] |       [4] |        [1] |
 note(Claude): need more human connectivity based sentece with clear flow.
 note(Gemini): It is like a friend who suggesting with details.
 note(Chatgpt): Just a formal answer, no human connectivity based words.
