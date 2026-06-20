@@ -133,7 +133,8 @@ note(Gemini): Overall good but didnot recognised previous memory but gives a vid
 note(ChatGPT): Its response looks like hazzy , it should need more detailed answer
 
 
-Personal Connection: Claude:3 ,Gemini:5 ,ChatGpt: 2
+Personal Connection: Claude:3 ,Gemini:5 ,ChatGpt: 2,,,, 
+FInally: 
 
 
 **Winner:** [Gemini]
