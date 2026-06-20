@@ -236,10 +236,10 @@ note(ChatGPT): Its response looks like hazzy , it should need more detailed answ
 |-------|----------|-----------|---------|----------------|------------------|
 | Claude | [5] |      [5] |       [4] |       [4] |        [3] |
 | Gemini | [5] |      [5] |       [5] |       [5] |        [5] |
-| ChatGPT| [5] |      [5] |       [4] |       [4] |        [1] |
+| ChatGPT| [5] |      [5] |       [4] |       [4] |        [2] |
 note(Claude): need more human connectivity based sentece with clear flow.
 note(Gemini): It is like a friend who suggesting with details.
-note(Chatgpt): Just a formal answer, no human connectivity based words.
+note(Chatgpt): Just a formal answer, no human connectivity based words. But it gives a valuavle data that user should intake 75 to 90 gm but we can;t choose him for overall review.
 
 **Winner:** [Gemini]
 **কেন:** [It gives natuaral vibe like I am taking suggestion from someone who cares about me,So I am choosing but rest of responses are good but they give direct answer feel like I am not a valuable person or ignored one.]
