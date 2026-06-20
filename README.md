@@ -12,7 +12,7 @@ Here I will evaluate multiple artificial intelligence responses and choose the b
 |---|--------|--------|-----------|
 | 1 | আমি পরীক্ষায় খারাপ করেছি কি করা উচিত? | Gemini | Point to point with accurate solution |
 | 2 | ভিটামিন সি কোন কোন খাবারে বেশি পরিমাণে পাওয়া যায়? | Gemini | Gives natuaral vibe |
-| 3 |  আমার খারাপ লাগছে আমার কি করা উচিত?   | Gemini | [Detailed Answer ensuring natural flow ] |
+| 3 |  আমার খারাপ লাগছে আমার কি করা উচিত?   | Gemini |  Detailed Answer ensuring natural flow |
 | 4 | আমাকে d/dx(e'x)অংকটি বুঝিয়ে দাও | [মডেল] | [এক লাইনে কারণ] |
 | 5 | [আমার ঘাড়ে ব্যথা আমার  করণীয় কি? | [মডেল] | [এক লাইনে কারণ] |
 | 6 | আমার কোন মোবাইল কেনা উচিত যদি বাজেট ৫০০০০ টাকা থাকে আমার কি মোবাইল কেনা উচিত নাকি ল্যাপটপ? | [মডেল] | [এক লাইনে কারণ] |
@@ -302,7 +302,7 @@ note(Chatgpt): Just a formal answer, no human connectivity based words.
 
 | Model | Accuracy | Relevance | Fluency | Cultural Fit | Personal Connection| Medical Issue|
 |-------|----------|-----------|---------|----------------|-------------------|-------------|
-| Claude | [5] | [5] | [5] | [4] | [2] | [1]|
+| Claude | [5] |      [5] |       [5] |       [4] |           [2] |              [1]|
 | Gemini | [5] | [5] | [5] | [5] | [4]| [5]|
 | ChatGPT | [5] | [5] | [5] | [3] | [4] [1]|
  note(claude): Claude may give proper answer if we share details info but as we only considering first reply so i getting low grade.
