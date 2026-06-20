@@ -125,12 +125,12 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 | Model | Accuracy | Relevance | Fluency | Cultural Fit |
 |-------|----------|-----------|---------|----------------|
-| Claude | [3] |      [5] |      [4] |       [5] |
-| Gemini | [5] |      [5] |      [4] |       [5] |
-| ChatGPT | [4] |     [5] |      [3] |       [4] |
+| Claude |  [5] |      [5] |      [5] |       [5] | note: It may give more detailed point to point, i donot feel attachment.
+| Gemini |  [5] |      [5] |      [5] |       [4] | note: Overall good but didnot recognised previous memory but gives a vide like a elder brother, and it may use তুমি (cause it represents ঘনিষ্ঠতা, স্নেহ বা সমতা) instead of আপনি.
+| ChatGPT|  [5] |      [5] |      [4] |       [4] | note: Its response looks like hazzy , it should need more detailed answer
 
 **Winner:** [Gemini]
-**কেন:** [Gemini Creates points that help to understand the overall think clearly with a flow and every point he suggested new solution which didn't provide by others.PLus point it gives a wonderful motivation that also help to choose this response as best among claude, chatgpt]
+**কেন:** [Although Claude get high mark but based on human like I prefer Gemini.Gemini Creates points that help to understand the overall think clearly with a flow and every point he suggested new solution which didn't provide by others.PLus point it gives a wonderful motivation that also help to choose this response as best among claude, chatgpt]
 
 ---
 ## Detailed Evaluations
@@ -230,12 +230,12 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 | Model | Accuracy | Relevance | Fluency | Cultural Fit |
 |-------|----------|-----------|---------|----------------|
-| Claude | [score] | [score] | [score] | [score] |
-| Gemini | [score] | [score] | [score] | [score] |
-| ChatGPT | [score] | [score] | [score] | [score] |
+| Claude | [5] |      [5] |       [4] |       [4] | note: need more human connectivity based sentece with clear flow.
+| Gemini | [5] |      [5] |       [5] |       [5] | note: It is like a friend who suggesting with details.
+| ChatGPT| [5] |      [5] |       [4] |       [4] | note: Just a formal answer, no human connectivity based words.
 
-**Winner:** [মডেল নাম]
-**কেন:** [তোমার justification]
+**Winner:** [Gemini]
+**কেন:** [It gives natuaral vibe like I am taking suggestion from someone who cares about me,So I am choosing but rest of responses are good but they give direct answer feel like I am not a valuable person or ignored one.]
 
 ---
 ### Prompt 3: [আমার খারাপ লাগছে আমার কি করা উচিত?]
