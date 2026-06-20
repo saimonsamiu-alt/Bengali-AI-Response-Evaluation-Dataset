@@ -114,3 +114,29 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 **কেন:** [তোমার justification]
 
 ---
+1 | [প্রশ্ন ১] | [মডেল] | [এক লাইনে কারণ] |
+| 2 | [প্রশ্ন ২] | [মডেল] | [এক লাইনে কারণ] |
+
+## Detailed Evaluations
+
+### Prompt 1: [এখানে প্রশ্ন লেখো]
+
+**Claude Response:**
+[Claude-এর উত্তর এখানে পেস্ট করো]
+
+**Gemini Response:**
+[Gemini-এর উত্তর এখানে পেস্ট করো]
+
+**ChatGPT Response:**
+[ChatGPT-এর উত্তর এখানে পেস্ট করো]
+
+| Model | Accuracy | Relevance | Fluency | Cultural Fit |
+|-------|----------|-----------|---------|----------------|
+| Claude | [score] | [score] | [score] | [score] |
+| Gemini | [score] | [score] | [score] | [score] |
+| ChatGPT | [score] | [score] | [score] | [score] |
+
+**Winner:** [মডেল নাম]
+**কেন:** [তোমার justification]
+
+---
