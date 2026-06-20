@@ -119,7 +119,7 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 
 ## Detailed Evaluations
 
-### Prompt 1: [এখানে প্রশ্ন লেখো]
+### Prompt 2: [এখানে প্রশ্ন লেখো]
 
 **Claude Response:**
 [Claude-এর উত্তর এখানে পেস্ট করো]
