@@ -304,10 +304,10 @@ note(Chatgpt): Just a formal answer, no human connectivity based words.
 |-------|----------|-----------|---------|----------------|-------------------|-------------|
 | Claude | [5] |      [5] |       [5] |       [4] |           [2] |              [1]|
 | Gemini | [5] | [5] | [5] | [5] | [4]| [5]|
-| ChatGPT | [5] | [5] | [5] | [3] | [4]|  [1]|
+| ChatGPT | [5] | [5] | [5] | [3] | [4]|  [3]|
  note(claude): Claude may give proper answer if we share details info but as we only considering first reply so i getting low grade.
  note(Gemini): As a huge model it getting always high mark in Bangla sector. It gets extra marks for medical sector cause its suggest to contract with  professionals and also In bengali culture after a short question people often love to listen brief advice so It responses quiet well.
- Note(Chatgpt): IT's good for English but in bangla language it seems like a robot talking who has no emotion. It mauy improve if it response more confidently with sources and human brain connection. 
+ Note(Chatgpt): IT's good for English but in bangla language it seems like a robot talking who has no emotion. It mauy improve if it response more confidently with sources and human brain connection.  But it has cover a serious issue of self damage so we cannot ignore chatGpt at the winner race cause life saving its the first priority.
 
 
  
