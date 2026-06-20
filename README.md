@@ -134,6 +134,8 @@ note(ChatGPT): Its response looks like hazzy , it should need more detailed answ
 
 
 Personal Connection: Claude:3 ,Gemini:5 ,ChatGpt: 2
+
+
 **Winner:** [Gemini]
 **কেন:** [Although Claude get high mark but based on human like I prefer Gemini.Gemini Creates points that help to understand the overall think clearly with a flow and every point he suggested new solution which didn't provide by others.PLus point it gives a wonderful motivation that also help to choose this response as best among claude, chatgpt]
 
