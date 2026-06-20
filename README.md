@@ -12,6 +12,7 @@ Here I will evaluate multiple artificial intelligence responses and choose the b
 |---|--------|--------|-----------|
 | 1 | [প্রশ্ন ১] | [মডেল] | [এক লাইনে কারণ] |
 | 2 | [প্রশ্ন ২] | [মডেল] | [এক লাইনে কারণ] |
+| 3 | [প্রশ্ন 3] | [মডেল] | [এক লাইনে কারণ] |
 
 ## Detailed Evaluations
 
