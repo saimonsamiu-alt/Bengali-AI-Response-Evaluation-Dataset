@@ -403,7 +403,7 @@ note(Chatgpt): Just a formal answer, no human connectivity based words.
 
 | Model | Accuracy | Relevance | Fluency | Cultural Fit | Personal Connection|
 |-------|----------|-----------|---------|----------------|-------------------|
-| Claude | [5] | [5] | [5] | [5] | [5]
+| Claude | [5] |      [5] |        [5] |      [5] |            [5]
 | Gemini | [5] | [5] | [4] | [4] | [4]
 | ChatGPT | [5] | [5]] | [3] | [3] |[3]
 note(Claude): On this response, claude suggest not only psychotherapist but also point to point, as Bengali culture like this types for specific answer.
