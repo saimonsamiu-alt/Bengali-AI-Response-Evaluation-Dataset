@@ -13,7 +13,7 @@ Here I will evaluate multiple artificial intelligence responses and choose the b
 | 1 | আমি পরীক্ষায় খারাপ করেছি কি করা উচিত? | Gemini | Point to point with accurate solution |
 | 2 | ভিটামিন সি কোন কোন খাবারে বেশি পরিমাণে পাওয়া যায়? | Gemini | Gives natuaral vibe |
 | 3 |  আমার খারাপ লাগছে আমার কি করা উচিত?   | Gemini |  Detailed Answer ensuring natural flow |
-| 4 |  [আমার ঘাড়ে ব্যথা আমার  করণীয় কি? | Claude | [A detailed Benglai cluture based ] |
+| 4 |  আমার ঘাড়ে ব্যথা আমার  করণীয় কি? | Claude | A detailed Benglai cluture based  |
 | 5 | আমাকে d/dx(e'x)অংকটি বুঝিয়ে দাও | ChatGpt | Solving the math conceptually| 
 | 6 | আমার কোন মোবাইল কেনা উচিত যদি বাজেট ৫০০০০ টাকা থাকে আমার কি মোবাইল কেনা উচিত নাকি ল্যাপটপ? | Claude | Avoid Artificial Intelligance hallucination |
 
