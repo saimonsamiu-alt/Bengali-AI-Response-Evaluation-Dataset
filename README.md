@@ -219,3 +219,87 @@ IUT-তে যদি রিটেক/ইম্প্রুভমেন্ট প
 **কেন:** [তোমার justification]
 
 ---
+### Prompt 3: [এখানে প্রশ্ন লেখো]
+
+**Claude Response:**
+[Claude-এর উত্তর এখানে পেস্ট করো]
+
+**Gemini Response:**
+[Gemini-এর উত্তর এখানে পেস্ট করো]
+
+**ChatGPT Response:**
+[ChatGPT-এর উত্তর এখানে পেস্ট করো]
+
+| Model | Accuracy | Relevance | Fluency | Cultural Fit |
+|-------|----------|-----------|---------|----------------|
+| Claude | [score] | [score] | [score] | [score] |
+| Gemini | [score] | [score] | [score] | [score] |
+| ChatGPT | [score] | [score] | [score] | [score] |
+
+**Winner:** [মডেল নাম]
+**কেন:** [তোমার justification]
+
+---
+### Prompt 4: [এখানে প্রশ্ন লেখো]
+
+**Claude Response:**
+[Claude-এর উত্তর এখানে পেস্ট করো]
+
+**Gemini Response:**
+[Gemini-এর উত্তর এখানে পেস্ট করো]
+
+**ChatGPT Response:**
+[ChatGPT-এর উত্তর এখানে পেস্ট করো]
+
+| Model | Accuracy | Relevance | Fluency | Cultural Fit |
+|-------|----------|-----------|---------|----------------|
+| Claude | [score] | [score] | [score] | [score] |
+| Gemini | [score] | [score] | [score] | [score] |
+| ChatGPT | [score] | [score] | [score] | [score] |
+
+**Winner:** [মডেল নাম]
+**কেন:** [তোমার justification]
+
+---
+### Prompt 5: [এখানে প্রশ্ন লেখো]
+
+**Claude Response:**
+[Claude-এর উত্তর এখানে পেস্ট করো]
+
+**Gemini Response:**
+[Gemini-এর উত্তর এখানে পেস্ট করো]
+
+**ChatGPT Response:**
+[ChatGPT-এর উত্তর এখানে পেস্ট করো]
+
+| Model | Accuracy | Relevance | Fluency | Cultural Fit |
+|-------|----------|-----------|---------|----------------|
+| Claude | [score] | [score] | [score] | [score] |
+| Gemini | [score] | [score] | [score] | [score] |
+| ChatGPT | [score] | [score] | [score] | [score] |
+
+**Winner:** [মডেল নাম]
+**কেন:** [তোমার justification]
+
+---
+### Prompt 6: [এখানে প্রশ্ন লেখো]
+
+**Claude Response:**
+[Claude-এর উত্তর এখানে পেস্ট করো]
+
+**Gemini Response:**
+[Gemini-এর উত্তর এখানে পেস্ট করো]
+
+**ChatGPT Response:**
+[ChatGPT-এর উত্তর এখানে পেস্ট করো]
+
+| Model | Accuracy | Relevance | Fluency | Cultural Fit |
+|-------|----------|-----------|---------|----------------|
+| Claude | [score] | [score] | [score] | [score] |
+| Gemini | [score] | [score] | [score] | [score] |
+| ChatGPT | [score] | [score] | [score] | [score] |
+
+**Winner:** [মডেল নাম]
+**কেন:** [তোমার justification]
+
+---
